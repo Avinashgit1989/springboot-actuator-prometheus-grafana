@@ -363,6 +363,6 @@ scrape_configs:
 
            rate(http_server_requests_seconds_count[1m])
 
-##Thanks
+## Thanks
 
 
